@@ -50,3 +50,21 @@ There are details that has to be filled in and once it's completed you can click
 While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+</p>
+<br />
