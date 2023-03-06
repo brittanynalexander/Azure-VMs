@@ -31,7 +31,7 @@ In this tutorial, we'll observe how to create an Azure Virtual Machine (VM) and 
 <img src="https://i.imgur.com/1E9Epto.png" height="80%" width="80%" alt="Creating Resource Group"/>
 </p>
 <p>
-Before we can create our VM, we first have to create a resource group, which you can have multiple of. Think of resource groups as folders you use to store the resources you create such as VMs, databases, storage accounts to store files, etc. From your Azure portal, you can either click on the resource groups icon or simply search for it in the search bar and click create. With that being said, let's create our resource group. Scroll with me!
+Before we can create our VM, we first have to create a resource group, which you can have multiple of. Think of resource groups as folders you use to store the resources you create such as VMs, databases, storage accounts to store files, etc. From your Azure portal, you can either click on the resource groups icon or simply search "resource groups" in the search bar and click create. With that being said, let's create our resource group. Scroll with me!
 </p>
 <br />
 
@@ -39,7 +39,7 @@ Before we can create our VM, we first have to create a resource group, which you
 <img src="https://i.imgur.com/7X5CzSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-There are details that has to be filled in regarding your resource group but once it's completed you can click review and create to make sure everything entered is acceptable and have your VM made!
+There are details that has to be filled in and once it's completed you can click "review + create" to make sure everything entered is acceptable and it will be made! You can double check to see if it's done by simply going to the resource group section. It won't be empty anymore! Now that we have our resource group, let's get to creating our VM. Scroll with me!
 </p>
 <br />
 
@@ -47,6 +47,6 @@ There are details that has to be filled in regarding your resource group but onc
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using an actual device, your virtual network or "switch" works in the cloud.
+While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
 </p>
 <br />
