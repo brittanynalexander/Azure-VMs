@@ -31,7 +31,7 @@ In this tutorial, we'll walk through how to create an Azure Virtual Machine (VM)
 <img src="https://i.imgur.com/NqNnOVs.png" height="80%" width="80%" alt="Step 1 Creating Resource group"/>
 </p>
 <p>
-Before we can create our VM we first have to create a Resource Group, which you can have multiple of. Think of Resource Groups as folders to store the resources you create such as VMs, Databases, Storage Accounts, etc. From your Azure portal you can either click on the Resource Groups icon or simply search "resource groups" in the search bar then click "create". With that being said, let's create one. Scroll with me!
+Before we can create our VM we first have to create a Resource Group, which you can have multiple of. Think of Resource Groups as folders to store the resources you create such as VMs, Databases, Storage Accounts, etc. From your Azure portal you can either click on the Resource Groups icon or simply search "resource groups" in the search bar then click "Create". With that being said, let's create one. Scroll with me!
 </p>
 <br />
 
