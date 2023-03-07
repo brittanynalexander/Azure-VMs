@@ -71,7 +71,7 @@ To view the information regarding your VM simply go to the Virtual Machines sect
 
 
 <p>
-<img src="https://i.imgur.com/kEn3Yix.png" height="80%" width="80%" alt="Step 6 Remote Desktop"/>
+<img src="https://i.imgur.com/ySVrwiM.png" height="80%" width="80%" alt="Step 6 Remote Desktop"/>
 </p>
 <p>
 To connect to the VM on a Windows desktop computer you'll need to utilize "Remote Desktop Connection". On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". On a MacOS you'll have to download "Microsoft Remote Desktop". Come on, we're getting closer to the actual connection, scroll with me!
