@@ -39,7 +39,7 @@ Before we can create our VM we first have to create a Resource Group, which you 
 <img src="https://i.imgur.com/l2BALfL.png" height="80%" width="80%" alt="Step 2 Creating Resource group"/>
 </p>
 <p>
-After filling in various details click "Review + Create" to make sure everything entered is acceptable then click "Create". You can double check this action by simply going to the Resource Groups section. (Remeber you can click the icon or search for it.) Your section won't be empty anymore! Now that we have our Resource Group, let's get to creating our VM. Scroll with me!
+After filling in various details click "Review + Create" to make sure everything entered is acceptable then click "Create". You can double check this action by simply going to the Resource Groups section. (Remeber you can click the icon or search for it.) Your section won't be empty anymore! Now that we have our Resource Group, I've named mine "RG-Lab-1", let's get to creating our VM. Scroll with me!
 </p>
 <br />
 
