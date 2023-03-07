@@ -44,10 +44,10 @@ After filling in various details click "Review + create" to make sure everything
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QQC83PL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+If the Virtual machines icon is not there you can do a quick search then click create. As always, there will be information to fill in and/or select.
 </p>
 <br />
 
