@@ -74,24 +74,24 @@ To view the information regarding your VM simply go to the Virtual Machines sect
 <img src="https://i.imgur.com/kEn3Yix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To connect to the VM on a Windows desktop computer you'll need to utilize Remote Desktop Connection. On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". Come on, we're getting closer to the actual connection, scroll with me!
+To connect to the VM on a Windows desktop computer you'll need to utilize Remote Desktop Connection. On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". On a MacOS you'll have to download Microsoft Remote Desktop. Come on, we're getting closer to the actual connection, scroll with me!
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/X769Wy5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+Copy your Public IP address which you can easily find in your Virtual machine essentials and paste it in the "computer" section of your Remote Desktop Connection. Click "connect". You will then be asked if you still want to connect due to security reasons, hit "yes"! We're connecting .. Scroll with me!
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EsdQGgm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+This is the desktop of your Virtual Machine, specifically running Windows 10. So cool right?! Cheers technology, cheers!
 </p>
 <br />
