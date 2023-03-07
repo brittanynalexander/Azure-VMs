@@ -4,7 +4,7 @@
 
 
 # Creating an Azure Virtual Machine (VM)
-In this tutorial, we'll observe how to create an Azure Virtual Machine (VM) and utilize Remote Desktop to connect to the created VM!
+In this tutorial, we'll walk through how to create an Azure Virtual Machine (VM) and utilize Remote Desktop to connect to the created VM!
 
 
 <h2>Environments and Technologies Used</h2>
