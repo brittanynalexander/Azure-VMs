@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Z0tGfHN.png" alt="Traffic Examination"/>
+<img src="https://i.imgur.com/Z0tGfHN.png" alt="Virtual Machine"/>
 </p>
 
 
@@ -28,7 +28,7 @@ In this tutorial, we'll observe how to create an Azure Virtual Machine (VM) and 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/NqNnOVs.png" height="80%" width="80%" alt="Creating Resource Group"/>
+<img src="https://i.imgur.com/NqNnOVs.png" height="80%" width="80%" alt="Creating Resource group"/>
 </p>
 <p>
 Before we can create our VM we first have to create a Resource group, which you can have multiple of. Think of Resource groups as folders to store the resources you create such as VMs, Databases, Storage accounts, etc. From your Azure portal you can either click on the Resource groups icon or simply search "Resource groups" in the search bar then click "create". With that being said, let's create one. Scroll with me!
@@ -36,7 +36,7 @@ Before we can create our VM we first have to create a Resource group, which you 
 <br />
 
 <p>
-<img src="https://i.imgur.com/l2BALfL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l2BALfL.png" height="80%" width="80%" alt="Creating Resource group"/>
 </p>
 <p>
 After filling in various details click "Review + create" to make sure everything entered is acceptable then click "create". You can double check this action by simply going to the Resource groups section. (Remeber you can click the icon or search for it.) Your section won't be empty anymore! Now that we have our resource group, let's get to creating our VM. Scroll with me!
@@ -53,28 +53,28 @@ If the Virtual machines icon doesn't appear on your home screen you can do a qui
 
 
 <p>
-<img src="https://i.imgur.com/drkOJ5A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/drkOJ5A.png" height="80%" width="80%" alt="Resources made"/>
 </p>
 <p>
-As stated, there are resources being simultaneously created along with your VM. The Disk is your hard drive. The Network Interface or Network Interface Card (NIC) is essentially like a vitual adapter which connects a computer to a network. The Virtual network is comparable to a switch, which is a device used to connect other devices that are on the same network. So instead of using a physical device, the virtual network or "switch" being used is in the cloud. The Network security group is essentially like a firewall, in which you can control inbound and outbound network traffic according to a set of rules. Your Public IP address is accessible from the internet in comparison to your Private IP address which only you should have access to. The Virtual machine is, well, your VM! 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+As stated, there are resources being simultaneously created along with your VM. The Disk is your hard drive. The Network Interface or Network Interface Card (NIC) is essentially like a vitual adapter which connects a computer to a network. The Virtual network is comparable to a switch, which is a device used to connect other devices that are on the same network. So instead of using a physical device, the virtual network or " virtual switch" being used is in the cloud. The Network security group is essentially like a firewall, in which you can control inbound and outbound network traffic according to a set of rules. Your Public IP address is accessible from the internet in comparison to your Private IP address which only you should have access to. The Virtual machine is, well, your VM! Let's view some esstential information regarding it, scroll with me!
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z9rwAti.png" height="80%" width="80%" alt="Virtual machine essentials"/>
 </p>
 <p>
-While creating our VM there are other properties being simultaneously created as well such as a virtual network. You can compare a virtual network to a switch, which is a device used to connect devices that are on the same network. So instead of using a physical device, your virtual network or "switch" being used, works in the cloud.
+To view the information regarding your VM simply go to the Virtual Machines section. You guessed it, either click the icon or search for it. Click on the name of your VM, I named mine "VM1". Within the Essentials section, you can see important information such as the type of Operating system (OS) you selected as your Virtual machine and your Public IP address to name a couple. The OS I chose as my VM is Windows. Let's get connecting, scroll with me!
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/kEn3Yix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To connect to the VM on a Windows desktop computer you'll need to utilize Remote Desktop Connection. On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". Come on, we're getting closer to the actual connection, scroll with me!
 </p>
 <br />
 
