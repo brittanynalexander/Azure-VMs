@@ -74,7 +74,7 @@ To view the information regarding your VM simply go to the Virtual Machines sect
 <img src="https://i.imgur.com/kEn3Yix.png" height="80%" width="80%" alt="Step 6 Remote Desktop"/>
 </p>
 <p>
-To connect to the VM on a Windows desktop computer you'll need to utilize Remote Desktop Connection. On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". On a MacOS you'll have to download Microsoft Remote Desktop. Come on, we're getting closer to the actual connection, scroll with me!
+To connect to the VM on a Windows desktop computer you'll need to utilize Remote Desktop Connection. On your desktop next to the start key, type in "remote desktop" and click on "Remote Desktop Connection". On a MacOS you'll have to download "Microsoft Remote Desktop". Come on, we're getting closer to the actual connection, scroll with me!
 </p>
 <br />
 
@@ -83,7 +83,7 @@ To connect to the VM on a Windows desktop computer you'll need to utilize Remote
 <img src="https://i.imgur.com/X769Wy5.png" height="80%" width="80%" alt="Step 7 IP address"/>
 </p>
 <p>
-Copy your Public IP address which you can easily find in your Virtual machine essentials and paste it in the "computer" section of your Remote Desktop Connection. Click "connect". You will then be asked if you still want to connect due to security reasons, hit "yes"! We're connecting .. Scroll with me!
+Copy your Public IP address which you can easily find in your Virtual machine essentials and paste it in the "computer" section of your Remote Desktop Connection or your Microsoft Remote Desktop. Click "connect". You will then be asked if you still want to connect due to security reasons, hit "yes"! We're connecting .. Scroll with me!
 </p>
 <br />
 
