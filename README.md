@@ -44,7 +44,7 @@ After filling in various details click "Review + Create" to make sure everything
 <br />
 
 <p>
-<img src="https://i.imgur.com/QQC83PL.png" height="80%" width="80%" alt="Step 3 Creating Virtual machine"/>
+<img src="https://i.imgur.com/XbgK2av.png" height="80%" width="80%" alt="Step 3 Creating Virtual machine"/>
 </p>
 <p>
 If the Virtual Machines icon doesn't appear on your home screen you can do a quick search then click "Create". As always, there will be information to fill in and/or select. Hit "Review + Create" then "Create". It may take a little while until the process is completed because there are multiple resources being made with your VM. Let's take a look at those resources, scroll with me!
