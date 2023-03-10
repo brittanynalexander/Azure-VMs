@@ -83,7 +83,7 @@ To connect to the VM on a Windows desktop computer you'll need to utilize "Remot
 <img src="https://i.imgur.com/X769Wy5.png" height="80%" width="80%" alt="Step 7 IP address"/>
 </p>
 <p>
-Copy your Public IP Address which you can easily find in your Virtual Machine Essentials and paste it in the "Computer" section of your Remote Desktop Connection or your Microsoft Remote Desktop. Click "Connect". You'll have to enter your credentials; this is the username and password you created when creating your VM. You will then be asked if you still want to connect due to security reasons, hit "Yes". We're connecting .. Scroll with me!
+Copy your Public IP Address which you can easily find in your Virtual Machine Essentials and paste it in the "Computer" section of your Remote Desktop Connection or your Microsoft Remote Desktop. Click "Connect". You'll have to enter your credentials; this is the username and password you created when creating your VM. You'll then be asked if you want to continue despite certificate errors, hit "Yes". (The certificate will be the name of your VM and since the certificate isn't valid, Remote Desktop cannot verify it.) We're connecting .. Scroll with me!
 </p>
 <br />
 
